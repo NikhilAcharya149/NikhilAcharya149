@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 **I'm Nikhil Acharya. I invite you to explore my GitHub to get a better understanding of analytics projects I've worked on!** <br/>
+<br/>
 **Tools used:** **Python**, **Excel**, **AWS Quicksight**
 
 <!--
