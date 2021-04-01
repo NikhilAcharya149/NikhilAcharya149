@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nikhil Acharya. I invite you to explore my GitHub to get a better understanding of my projects!
+
 <!--
 **NikhilAcharya149/NikhilAcharya149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
