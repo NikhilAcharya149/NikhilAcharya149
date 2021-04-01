@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **I'm Nikhil Acharya. I invite you to explore my GitHub to get a better understanding of analytics projects I've worked on!** <br/>
-**Tools used: **Python**, **Excel**, **AWS Quicksight**
+**Tools used:** **Python**, **Excel**, **AWS Quicksight**
 
 <!--
 **NikhilAcharya149/NikhilAcharya149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
